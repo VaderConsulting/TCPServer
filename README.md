@@ -23,7 +23,7 @@ Open the `.vbp` in Visual Basic 6.0 IDE:
 
 ## Attribution and provenance
 
-Working copy from Dave Robinson's OneDrive Historical Dev folder `VB/TCPServer`.
+Working copy from my Historical Dev folder `VB/TCPServer`.
 Company names in `.vbp` files: Unknown Organization.
 
 ## License
