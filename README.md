@@ -2,7 +2,7 @@
 
 VB6 Logon Server (`Logon Server.exe`) that listens on Winsock (port 1001) for `TCPClient` connections, accepts multiple clients, and returns drive-mapping payload (plus `Logon.mdb`). Pair with sibling `TCPClient`. Open `Logon Server.Vbp` in the VB6 IDE.
 
-**Source last updated:** 2026-08-27 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** WinForms exe
+**Source last updated:** 2003-01-01 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** WinForms exe
 
 ## Solution structure
 
